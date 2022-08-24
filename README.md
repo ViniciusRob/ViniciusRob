@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software para nossos problemas tecnológicos mundiais.
 - 🤩 &nbsp; Cursando o Bootcamp Generation Brasil.
-- 🎓 &nbsp; Quarto semestre Análise e Desenvolvimento de Sistemas pela UNINOVE.
+- 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas pela UNINOVE.
 
 
 ### 🛠 &nbsp;Habilidades
